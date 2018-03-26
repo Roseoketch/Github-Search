@@ -1,8 +1,8 @@
 .jumbotron {
   text-align: center;
   font-family: 'Times New Roman', Times, serif;
-  border-radius: 30px;
-  background-color: rgb(84, 84, 189);
+  border-radius: 10px;
+  background-color: grey;
   opacity: 0.9;
   margin: 10px;
 }
