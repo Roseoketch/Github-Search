@@ -1,6 +1,6 @@
 # Git-google project
 
-#### it allows one to search git projects online,
+#### It allows one to search git projects online,
 
 #### By **Rose Oketch**
 
