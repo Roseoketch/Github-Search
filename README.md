@@ -1,6 +1,6 @@
 # Git-google project
 
-#### it allows one to search git projects online,
+#### It allows one to search git projects online,
 
 #### By **Rose Oketch**
 
@@ -23,4 +23,4 @@ Email:oketchrose@gmail.com
 ### License
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
-Copyright (c) 2018 Moringa School
+Copyright (c) 2011 Moringa School
